@@ -1,12 +1,8 @@
 ---
-description: Things I Should Know But Always Forget
+description: Notes, how-tos, tutorials and more relating to the Windows operating system.
 ---
 
-# 🧠 What is TISKBAF?
-
-## Introduction
-
-This Gitbook is solely for the purposes of recording notes or information that is important, yet easily forgotten.
+# 💽 Windows OS
 
 ## Digital Notebook Divided into Sections
 
