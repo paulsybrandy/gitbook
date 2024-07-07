@@ -1,19 +1,13 @@
-gitbook-template
-======
+---
+description: Things I Should Know But Always Forget
+---
 
-## Introduction 
+# 🧠 What is TISKBAF?
 
-This is a simple template for starting a [GitBook](https://www.gitbook.io)
+## Introduction
 
+This Gitbook is solely for the purposes of recording notes or information that is important, yet easily forgotten.
 
-## Usage 
+## Digital Notebook Divided into Sections
 
-To port this template into a gitbook, simply:
-
-1. Fork this repo.
-2. Create an account with gitbooks using your github account (or give gitbooks access to your github account if you already have a gitbooks account).
-3. Login to gitbooks and click the "+ NEW" button.
-3. Then select the "GITHUB" heading.
-4. From there, you should see a drop-down menu showing all of your repos.  Choose this repo (named gitbook-template by default).
-5. Feel free to change the title and add a description.  Once you hit "Create Book", you will have a basic gitbook!
-
+Each section is its own category. Each has subsections that contains the notes and other important information that relates to the parent section.
