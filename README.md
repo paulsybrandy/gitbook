@@ -1,9 +1,9 @@
 ---
-description: Notes, how-tos, tutorials and more relating to the Windows operating system.
+description: Notes, how-tos, tutorials and more relating to the Linux operating system.
 ---
 
-# 💽 Windows OS
+# 🖥️ Linux OS
 
-## Digital Notebook Divided into Sections
+## Sub-sections
 
-Each section is its own category. Each has subsections that contains the notes and other important information that relates to the parent section.
+Each sub-section is its own category that contains the notes and other valuable information that relates to Linux OS (parent section). Any subsection can be chosen on the left side menu.
