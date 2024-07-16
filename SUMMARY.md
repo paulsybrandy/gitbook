@@ -31,5 +31,6 @@
   * [Rainmeter Config Definitions](windows-os/rainmeter-config-definitions.md)
   * [Pushover](windows-os/pushover.md)
   * [Program Folder Locations](windows-os/program-folder-locations.md)
+  * [badge-maker](windows-os/badge-maker.md)
 * [📒 Everything else](section2/README.md)
   * [example 1](section2/example1.md)
