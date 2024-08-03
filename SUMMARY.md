@@ -42,5 +42,6 @@
   * [Permanently Remove OneDrive from Windows](windows-os/permanently-remove-onedrive-from-windows.md)
   * [IRC NickServ Commands (full list)](windows-os/irc-nickserv-commands-full-list.md)
   * [Convert a P12/PFX Certificate to a .CER](windows-os/convert-a-p12-pfx-certificate-to-a-.cer.md)
+  * [How to embed in HTML](windows-os/how-to-embed-in-html.md)
 * [📒 Everything else](section2/README.md)
   * [example 1](section2/example1.md)
