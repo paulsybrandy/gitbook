@@ -47,3 +47,4 @@
 * [📒 Everything else](section2/README.md)
   * [12 Firefox Hidden Settings You Should Check Out](section2/12-firefox-hidden-settings-you-should-check-out.md)
   * [ADB (almost) Full Commands List](section2/adb-almost-full-commands-list.md)
+  * [How to pair your Wear OS smartwatch with a new phone](section2/how-to-pair-your-wear-os-smartwatch-with-a-new-phone.md)
