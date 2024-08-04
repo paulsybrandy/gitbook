@@ -43,5 +43,7 @@
   * [IRC NickServ Commands (full list)](windows-os/irc-nickserv-commands-full-list.md)
   * [Convert a P12/PFX Certificate to a .CER](windows-os/convert-a-p12-pfx-certificate-to-a-.cer.md)
   * [How to embed in HTML](windows-os/how-to-embed-in-html.md)
+  * [Misc. Windows Information](windows-os/misc.-windows-information.md)
 * [📒 Everything else](section2/README.md)
-  * [example 1](section2/example1.md)
+  * [12 Firefox Hidden Settings You Should Check Out](section2/12-firefox-hidden-settings-you-should-check-out.md)
+  * [ADB (almost) Full Commands List](section2/adb-almost-full-commands-list.md)
