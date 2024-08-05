@@ -54,3 +54,4 @@
   * [IRC Servers & Channels Info](section2/irc-servers-and-channels-info.md)
   * [Internxt CLI commands and usage](section2/internxt-cli-commands-and-usage.md)
   * [Insert Back button on a webpage](section2/insert-back-button-on-a-webpage.md)
+  * [How to have a web page refresh automatically](section2/how-to-have-a-web-page-refresh-automatically.md)
