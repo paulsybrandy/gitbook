@@ -64,3 +64,4 @@
   * [How to reset Cync by GE smart lights](section2/how-to-reset-cync-by-ge-smart-lights.md)
   * [IRC Servers & Channels Info](section2/irc-servers-and-channels-info.md)
   * [Internxt CLI commands and usage](section2/internxt-cli-commands-and-usage.md)
+  * [Call Forwarding on mobile device](section2/call-forwarding-on-mobile-device.md)
