@@ -4,7 +4,7 @@ description: >-
   developing.
 ---
 
-# 👨‍💻Coding & Developing
+# 💻 Coding & Developing
 
 ## Sub-sections
 

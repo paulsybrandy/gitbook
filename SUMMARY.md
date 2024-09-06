@@ -54,7 +54,7 @@
   * [WORD CLOUD TEXT PORTRAIT EFFECT IN PHOTOSHOP (video)](design/word-cloud-text-portrait-effect-in-photoshop-video.md)
   * [BROKEN 3D TEXT EFFECT | PHOTOSHOP (video)](design/broken-3d-text-effect-or-photoshop-video.md)
   * [Type on a path in Photoshop](design/type-on-a-path-in-photoshop.md)
-* [👨‍💻Coding & Developing](coding-and-developing/README.md)
+* [💻 Coding & Developing](coding-and-developing/README.md)
   * [APIMyLlama V2](coding-and-developing/apimyllama-v2.md)
   * [Insert Back button on a webpage](coding-and-developing/insert-back-button-on-a-webpage.md)
   * [How to have a web page refresh automatically](coding-and-developing/how-to-have-a-web-page-refresh-automatically.md)
