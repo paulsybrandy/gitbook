@@ -68,3 +68,4 @@
   * [Internxt CLI commands and usage](section2/internxt-cli-commands-and-usage.md)
   * [Call Forwarding on mobile device](section2/call-forwarding-on-mobile-device.md)
   * [Obsidian Templater plugin](section2/obsidian-templater-plugin.md)
+  * [Exportify Documentation](section2/exportify-documentation.md)
