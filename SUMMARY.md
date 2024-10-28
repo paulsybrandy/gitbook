@@ -70,3 +70,4 @@
   * [Call Forwarding on mobile device](section2/call-forwarding-on-mobile-device.md)
   * [Obsidian Templater plugin](section2/obsidian-templater-plugin.md)
   * [Exportify Documentation](section2/exportify-documentation.md)
+  * [KLLOQUE K10 B Ball Lock User Manual](section2/klloque-k10-b-ball-lock-user-manual.md)
