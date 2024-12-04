@@ -48,6 +48,7 @@
   * [Information on ‘scoop’ package manager for Windows](windows-os/information-on-scoop-package-manager-for-windows.md)
   * [DISMTools Docs](windows-os/dismtools-docs.md)
   * [Creating Python Virtual Environment in Windows and Linux](windows-os/creating-python-virtual-environment-in-windows-and-linux.md)
+  * [Using XnConvert to bulk convert image sizes](windows-os/using-xnconvert-to-bulk-convert-image-sizes.md)
 * [🏬 \[Graphic\] Design](design/README.md)
   * [Create a Realistic Shadow for Objects in GIMP (video)](design/create-a-realistic-shadow-for-objects-in-gimp-video.md)
   * [How to Add Outer Glow Effects in GIMP](design/how-to-add-outer-glow-effects-in-gimp.md)
