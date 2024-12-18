@@ -25,11 +25,11 @@ A similar issue can happen when your thumbnail previews. Instead of seeing a pre
 
 #### **Method 1: Let’s run the fixit provided in the following link and check if that helps to resolve the issue. Refer the following link provided to run the fix it.**
 
-‘Diagnose and repair Windows File and Folder Problems automatically’[http://support.microsoft.com/mats/windows\_file\_and\_folder\_diag/](http://support.microsoft.com/mats/windows\_file\_and\_folder\_diag/)
+‘Diagnose and repair Windows File and Folder Problems automatically’[http://support.microsoft.com/mats/windows\_file\_and\_folder\_diag/](http://support.microsoft.com/mats/windows_file_and_folder_diag/)
 
 #### **Method 2: This issue can occur by corrupted icon cache. To fix the issue, rebuild icon cache.**
 
-❗_This option typically worked after all the other methods did not. Therefore, it is advised to try this method first when you experience this issue!_✎ **NOTE: Best to complete this method logged under a different Admin account.**
+❗\_This option typically worked after all the other methods did not. Therefore, it is advised to try this method first when you experience this issue!\_✎ **NOTE: Best to complete this method logged under a different Admin account.**
 
 1. Click the Start button, and click Computer.
 2. On the Tool bar, click ‘Organize’ and choose Folder and Search Options.
