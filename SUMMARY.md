@@ -52,6 +52,8 @@
   * [How to Merge Multiple Text Files using different methods in Windows](windows-os/how-to-merge-multiple-text-files-using-different-methods-in-windows.md)
   * [How to use OLLAMA\_ORIGINS in Windows](windows-os/how-to-use-ollama_origins-in-windows.md)
   * [To permanently turn off Windows Security and Windows Defender1](windows-os/to-permanently-turn-off-windows-security-and-windows-defender1.md)
+  * [Enabling the disabled sounds in Windows](windows-os/enabling-the-disabled-sounds-in-windows.md)
+  * [Enable classic right-click context menu on Windows 11](windows-os/enable-classic-right-click-context-menu-on-windows-11.md)
 * [🏬 \[Graphic\] Design](design/README.md)
   * [Create a Realistic Shadow for Objects in GIMP (video)](design/create-a-realistic-shadow-for-objects-in-gimp-video.md)
   * [How to Add Outer Glow Effects in GIMP](design/how-to-add-outer-glow-effects-in-gimp.md)
