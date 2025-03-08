@@ -71,6 +71,7 @@
   * [AstroPaper Blog Theme](coding-and-developing/astropaper-blog-theme/README.md)
     * [How to configure AstroPaper theme - Blog](coding-and-developing/astropaper-blog-theme/how-to-configure-astropaper-theme-blog.md)
     * [Adding new posts in AstroPaper theme](coding-and-developing/astropaper-blog-theme/adding-new-posts-in-astropaper-theme.md)
+  * [How to generate Django SECRET\_KEY](coding-and-developing/how-to-generate-django-secret_key.md)
 * [📒 Everything else](section2/README.md)
   * [RSS Feed in your Notion Pages](section2/example1.md)
   * [12 Firefox Hidden Settings You Should Check Out](section2/12-firefox-hidden-settings-you-should-check-out.md)
