@@ -56,6 +56,7 @@
   * [Enable classic right-click context menu on Windows 11](windows-os/enable-classic-right-click-context-menu-on-windows-11.md)
   * [How to Convert Kindle Books (.awz/.awz3) to Other E-book Formats](windows-os/how-to-convert-kindle-books-.awz-.awz3-to-other-e-book-formats.md)
   * [How to Create Symbolic Links with mklink](windows-os/how-to-create-symbolic-links-with-mklink.md)
+  * [APIMyLlama Commands](windows-os/apimyllama-commands.md)
 * [🏬 \[Graphic\] Design](design/README.md)
   * [Create a Realistic Shadow for Objects in GIMP (video)](design/create-a-realistic-shadow-for-objects-in-gimp-video.md)
   * [How to Add Outer Glow Effects in GIMP](design/how-to-add-outer-glow-effects-in-gimp.md)
