@@ -1,5 +1,5 @@
 ---
-description: 'The main sections (categories) of <span style="color: red;">TISKBAF</span>'
+description: 'The main sections (categories) of the TISKBAF notebook:'
 icon: list-ol
 layout:
   title:
