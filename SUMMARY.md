@@ -3,6 +3,7 @@
 * [Synology NAS](README.md)
   * [Managing services and packages on Synology NAS (DSM 7.2+) via terminal](synology-nas/managing-services-and-packages-on-synology-nas-dsm-7.2+-via-terminal.md)
   * [Docker (Container Manager) rebuild example](synology-nas/docker-container-manager-rebuild-example.md)
+  * [Virtual Environments](synology-nas/virtual-environments.md)
 * [🖥️ Linux OS](<README (1).md>)
   * [Useful Linux commands](section1/example1.md)
   * [To get a list of the dependencies of a package](section1/example2.md)
