@@ -2,6 +2,17 @@
 description: >-
   Everything that does not fall into the other sections will be located in this
   section.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 📒 Everything else
