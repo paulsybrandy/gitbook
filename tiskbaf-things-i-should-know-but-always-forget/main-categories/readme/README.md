@@ -1,5 +1,6 @@
 ---
 description: Notes, how-tos, tutorials and more relating to the Linux operating system.
+icon: linux
 layout:
   title:
     visible: true
@@ -13,5 +14,5 @@ layout:
     visible: false
 ---
 
-# 🖥️ Linux OS
+# Linux OS
 

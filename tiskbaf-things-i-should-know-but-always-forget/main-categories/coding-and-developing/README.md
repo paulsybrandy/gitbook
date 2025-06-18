@@ -2,6 +2,7 @@
 description: >-
   Links, notes, how-tos, tutorials and anything relating to coding and
   developing.
+icon: code
 layout:
   title:
     visible: true
@@ -15,5 +16,5 @@ layout:
     visible: false
 ---
 
-# 💻 Coding & Developing
+# Coding & Developing
 

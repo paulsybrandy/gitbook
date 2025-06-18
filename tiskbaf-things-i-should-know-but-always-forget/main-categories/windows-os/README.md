@@ -1,5 +1,6 @@
 ---
 description: Notes, how-tos, tutorials and more relating to the Windows operating system.
+icon: windows
 layout:
   title:
     visible: true
@@ -13,5 +14,5 @@ layout:
     visible: false
 ---
 
-# 🖥️ Windows OS
+# Windows OS
 
