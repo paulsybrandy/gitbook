@@ -1,5 +1,5 @@
 ---
-description: 'The main sections (categories) of the TISKBAF notebook:'
+description: 'The main categories (articles) of the TISKBAF notebook:'
 icon: list-ol
 layout:
   title:
