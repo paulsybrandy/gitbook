@@ -14,5 +14,8 @@ layout:
     visible: false
 ---
 
-# Book Sections
+# Main Categories
 
+{% hint style="warning" %}
+Each subpage (article) under this section is its own main category and all subpages under each one have topics that pertain to that category. There are certain topics that may be listed under multiple categories because they can pertain to not just a single category.
+{% endhint %}
