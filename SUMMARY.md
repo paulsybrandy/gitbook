@@ -1,6 +1,9 @@
 # Table of contents
 
-* [🖥️ Linux OS](README.md)
+* [Synology NAS](README.md)
+  * [Managing services and packages on Synology NAS (DSM 7.2+) via terminal](synology-nas/managing-services-and-packages-on-synology-nas-dsm-7.2+-via-terminal.md)
+  * [Docker (Container Manager) rebuild example](synology-nas/docker-container-manager-rebuild-example.md)
+* [🖥️ Linux OS](<README (1).md>)
   * [Useful Linux commands](section1/example1.md)
   * [To get a list of the dependencies of a package](section1/example2.md)
   * [Reset a Forgotten Root Password](section1/reset-a-forgotten-root-password.md)

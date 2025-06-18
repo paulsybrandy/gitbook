@@ -8,4 +8,4 @@ description: >-
 
 ## Sub-sections
 
-Each sub-section is its own category that contains the notes and other information that relates to the given subsection. Any subsection can be chosen by clicking on the subsection name located on the left side menu.
+Each sub-section is its own category that contains the notes and other valuable information that relates to that category. Sub-sections (categories) can be chosen on the left side menu.

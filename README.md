@@ -1,9 +1,13 @@
 ---
-description: Notes, how-tos, tutorials and more relating to the Linux operating system.
+description: >-
+  Notes, commands, instructions, tutorials, and everything else pertaining to
+  Synology NAS and DSM OS
+icon: server
 ---
 
-# 🖥️ Linux OS
+# Synology NAS
 
 ## Sub-sections
 
-Each sub-section is its own category that contains the notes and other valuable information that relates to Linux OS (parent section). Any subsection can be chosen on the left side menu.
+Each sub-section is its own category that contains the notes and other valuable information that relates to that category. Sub-sections (categories) can be chosen on the left side menu.
+

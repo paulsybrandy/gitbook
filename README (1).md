@@ -1,8 +1,8 @@
 ---
-description: Notes, how-tos, tutorials and more relating to the Windows operating system.
+description: Notes, how-tos, tutorials and more relating to the Linux operating system.
 ---
 
-# 🖥️ Windows OS
+# 🖥️ Linux OS
 
 ## Sub-sections
 
