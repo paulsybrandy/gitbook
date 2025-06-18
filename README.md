@@ -1,13 +1,18 @@
 ---
-description: >-
-  Notes, commands, instructions, tutorials, and everything else pertaining to
-  Synology NAS and DSM OS
-icon: server
+description: 'The main sections (categories) of <span style="color: red;">TISKBAF</span>'
+icon: list-ol
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# Synology NAS
-
-## Sub-sections
-
-Each sub-section is its own category that contains the notes and other valuable information that relates to that category. Sub-sections (categories) can be chosen on the left side menu.
+# Book Sections
 
